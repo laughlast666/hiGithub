@@ -1,3 +1,4 @@
+add hi0
 add hi1
 add hi2
 
